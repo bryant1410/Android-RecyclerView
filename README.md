@@ -1,7 +1,7 @@
 # RecyclerView and CardView
 Demo for using RecylcerView and CardView with Android L new features.
 
-##Prerequisites
+## Prerequisites
  - android-support-v7
  - Recyclerview
  - Cardview
@@ -22,7 +22,7 @@ dependencies {
 ```
 
 ## Usage
-####RecyclerView
+#### RecyclerView
 ```
    <android.support.v7.widget.RecyclerView
         android:id="@+id/list"
@@ -34,7 +34,7 @@ dependencies {
 ```
 
 
-####CardView
+#### CardView
 ```
 <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="horizontal" android:layout_width="match_parent"
@@ -75,7 +75,7 @@ dependencies {
 ```
 
 
-#License
+# License
 	Copyright (C) 2014 CommonQ 
 
 	Licensed under the Apache License, Version 2.0 (the "License");
